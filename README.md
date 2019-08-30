@@ -20,4 +20,4 @@ This project is a simple recreation of the google homepage, with search box and 
 
 ## Check it out!
 
-Farmerjoe12.github.io/google-homepage
+https://Farmerjoe12.github.io/google-homepage
