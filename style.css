@@ -1,25 +1,25 @@
-.topnav {
+nav {
     overflow: hidden;
     padding:5px;
 }
 
-.topnav a {
+nav a {
     color: black;
     text-decoration: none;
     padding: 5px 5px;
     font-size: 15px;
 }
-.topnav .leftnav {
+nav .left {
     float: left;
     margin-right: auto;
 }
 
-.topnav .rightnav{
+nav .right {
     float:right;
     margin-left: auto;
 }
 
-.topnav a:hover {
+nav a:hover {
     color:black;
     text-decoration: underline;
 }
