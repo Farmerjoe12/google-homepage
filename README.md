@@ -10,7 +10,7 @@ This project is a simple recreation of the google homepage, with search box and 
 
 ## Things I've Learned
 
-*Github Hosting
+*Using Github Pages
 
 *Basic CSS Styling
 
