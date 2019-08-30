@@ -1,4 +1,4 @@
-# A recreation of the Google homepage.
+# A Recreation of the Google Homepage
 
 This project is a simple recreation of the google homepage, with search box and nav bars. Nothing else is functional; i.e. links are dead and search bar doesn't search, but it's a good starting project.
 
